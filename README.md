@@ -7,11 +7,6 @@ I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. With a background in 
 - Focused on **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP, Computer Vision**
 - **ex-Backend Developer Intern** @DeepMatrix, **ex-Research and Development Intern** @AMTDC IIT Madras,  
 
-<p align="center">
-    <a href="https://github.com/rajatrai16921/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gun-py&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatrai16921&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatrai16921&theme=great-gatsby&layout=compact)](https://github.com/rajatrai16921)

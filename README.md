@@ -1,6 +1,6 @@
 <h1 align="center">RAJAT RAI</h1>
 
-I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. With a background in Data Science, Data Analysis, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing, as well as a few internships and fellowships under my belt, I am eager to contribute my knowledge to help research and develop state-of-the-art solutions.
+I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. With a background in Data Science, Data Analysis, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing, as well as a few internships , I am eager to contribute my knowledge to help research and develop state-of-the-art solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatrai16921" alt="rajatrai16921" /> </p>
 

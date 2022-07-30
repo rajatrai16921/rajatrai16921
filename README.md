@@ -4,8 +4,8 @@ I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. With a background in 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatrai16921" alt="rajatrai16921" /> </p>
 
-- Focused on **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP/NLU, Computer Vision, Applied Stats and Time Series Modelling**
-- **Backend Developer Intern** @DeepMatrix, **AI Researcher** @AMTDC IIT Madras,  
+- Focused on **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP, Computer Vision**
+- **ex-Backend Developer Intern** @DeepMatrix, **ex-Research and Development Intern** @AMTDC IIT Madras,  
 
 <p align="center">
     <a href="https://github.com/rajatrai16921/github-readme-streak-stats">

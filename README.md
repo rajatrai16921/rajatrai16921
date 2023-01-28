@@ -4,7 +4,6 @@ I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. With a background in 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatrai16921" alt="rajatrai16921" /> </p>
 
-- Focused on **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP, Computer Vision**
 - **ex-Backend Developer Intern** @DeepMatrix, **ex-Research and Development Intern** @AMTDC IIT Madras,  
 
 

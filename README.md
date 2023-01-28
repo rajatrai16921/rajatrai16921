@@ -1,6 +1,6 @@
 <h1 align="center">RAJAT RAI</h1>
 
-I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. With a background in Data Science, Data Analysis, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing, as well as a few internships , I am eager to contribute my knowledge to help research and develop state-of-the-art solutions.
+I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. With a background in Data Science, Data Analysis, Machine Learning, Deep Learning and Computer Vision, as well as a few internships.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatrai16921" alt="rajatrai16921" /> </p>
 
@@ -11,7 +11,7 @@ I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. With a background in 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatrai16921&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatrai16921&theme=great-gatsby&layout=compact)](https://github.com/rajatrai16921)
 </br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
